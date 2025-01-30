@@ -46,8 +46,8 @@ Study Notion (an Edtech Application) **Frontend** which is a web application of 
 </p> 
 
 
-* Github: [@abhi-nav-anand](https://github.com/abhi-nav-anand)
-* LinkedIn: https://linkedin.com/abhinavanand3154/
+* Github: [@abhi-nav-anand](https://github.com/priyakumari133)
+* LinkedIn: (https://www.linkedin.com/in/priya-kumari-379724222/)
 
 ## Show your support
 
@@ -55,5 +55,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2023 [Abhinav Anand](https://github.com/abhi-nav-anand).<br />
-This project is [MIT License](https://github.com/abhi-nav-anand/Study-Notion-Frontend/blob/main/LICENSE) licensed.
+Copyright © 2023 [Priya Kumari](https://github.com/priyakumari133).<br />
+This project is [MIT License](https://github.com/priyakumari133/Study-Notion-Frontend/blob/main/LICENSE) licensed.
