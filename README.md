@@ -15,7 +15,7 @@ Study Notion (an Edtech Application) **Frontend** which is a web application of 
 
 1. Clone the project
 ```
- git clone https://github.com/abhi-nav-anand/Study-Notion-Frontend.git
+ git clone https://github.com/priyakumari133/Study-Notion-Frontend.git
 ```
 2. Open **[VS Code](https://code.visualstudio.com/)** or any other IDE of your choice open the **Study-Notion-Frontend** folder.
 
