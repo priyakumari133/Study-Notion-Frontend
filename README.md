@@ -46,7 +46,7 @@ Study Notion (an Edtech Application) **Frontend** which is a web application of 
 </p> 
 
 
-* Github: [@abhi-nav-anand](https://github.com/priyakumari133)
+* Github: [@priyakumari133](https://github.com/priyakumari133)
 * LinkedIn: (https://www.linkedin.com/in/priya-kumari-379724222/)
 
 ## Show your support
